@@ -30,7 +30,7 @@ The application contains the following features:
 
 ### Screenshots
 
-![Screenshot](./screenshot.jpg)
+![Screenshot](./src/assets/images/readme-image.png)
 
 ### Links
 
